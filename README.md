@@ -27,6 +27,3 @@ In this programme, I underwent the following:
 - **Languages & Frameworks**: Java, Spring Boot, React, Groovy.
 - **Tools**: Jenkins, Git, GitHub, Spock.
 - **Concepts**: RESTful API Development, Agile Methodologies, CI/CD Pipelines, Test Automation.
-
-## Conclusion
-The Forage Accenture Software Engineering Programme was not just a learning experience; it was a masterclass in software development. Through this program, I not only honed my technical skills but also demonstrated an innate ability to lead and innovate in the face of complex challenges. My contributions have had a lasting impact on the projects I worked on, setting a benchmark for future endeavors and establishing myself as a formidable force in the tech industry.
