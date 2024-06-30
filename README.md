@@ -1,4 +1,4 @@
-# Virtual Software Engineering Internship - Forage Accenture Software Engineering Programme
+# Forage Accenture Software Engineering Programme
 
 ## Overview
 In this programme, I underwent the following:
